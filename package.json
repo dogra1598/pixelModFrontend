@@ -1,0 +1,10 @@
+{
+  "name": "pixelmodfrontend",
+  "version": "1.0.0",
+  "description": "PixelMod frontend",
+  "scripts": {
+    
+  },
+  "author": "Vishal Dogra",
+  "license": "ISC"
+}
